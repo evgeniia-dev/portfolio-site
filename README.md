@@ -1,3 +1,5 @@
-# portfolio-site
-Repository for practicing Git and GitHub basics as part of my Web Programming I course at the UEF. 
-GitHub pages link: https://evgeniia-dev.github.io/portfolio-site/
+# Portfolio Site
+
+Static site for UEF Git/GitHub exercises.
+
+**Live site:** https://evgeniia-dev.github.io/portfolio-site/
